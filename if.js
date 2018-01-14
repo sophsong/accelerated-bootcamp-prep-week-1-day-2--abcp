@@ -5,4 +5,4 @@ if (pokemon == "Pikachu") {
 }
 
 var message= "Sorry, that number is not 10"
-if()
+if(number is greater than 10){return the number} else{// return message}
