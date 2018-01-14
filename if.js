@@ -6,3 +6,7 @@ if (pokemon == "Pikachu") {
 
 var message= "Sorry, that number is not 10"
 if(number is greater than 10){return the number} else{// return message}
+function greaterThanTen(num)
+if (num===10)
+return num}
+else if (num)
