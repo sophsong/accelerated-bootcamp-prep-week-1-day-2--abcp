@@ -4,4 +4,5 @@ if (pokemon == "Pikachu") {
   console.log("I choose you Pikachu!!")
 }
 
-var message= "Sorry, that number is "
+var message= "Sorry, that number is not 10"
+if()
